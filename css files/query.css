@@ -7,7 +7,7 @@
 }
 #footer{
 	text-align:center;
-	margin-top:125px;
+	margin-top:90px;
 }
 .me{
 	width:30%;
@@ -22,4 +22,7 @@ body{
 	float:right;
 	width:25%;
 	height:25%;
+}
+.con{
+	margin-left:500px;
 }
