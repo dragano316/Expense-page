@@ -7,5 +7,19 @@
 }
 #footer{
 	text-align:center;
-	margin-top:250px;
+	margin-top:125px;
+}
+.me{
+	width:30%;
+}
+body{
+	background-color: #D3D3D3;
+}
+.navbar-default{
+	background:black;
+}
+.meee{
+	float:right;
+	width:25%;
+	height:25%;
 }
