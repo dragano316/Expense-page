@@ -13,6 +13,7 @@ body{
 #footer{
 	text-align:center;
 	margin-top:10%;
+	font-weight: 1000;
 }
 .navbar-default{
 	background:black;
@@ -52,4 +53,12 @@ body{
 a{
 	text-decoration: none;
 	color:white;
+}
+a:hover{
+	text-decoration: none;
+	color:silver;
+}
+a:visited{
+	text-decoration: none;
+	color:silver;
 }

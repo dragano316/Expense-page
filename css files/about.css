@@ -1,6 +1,10 @@
+body{
+	background-color: #D3D3D3;
+}
 #footer{
 	text-align:center;
 	margin-top:10%;
+	font-weight: 1000;
 }
 .navbar-default{
 	background:black;

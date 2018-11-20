@@ -1,35 +1,13 @@
-
 body{
-	color:white;
-	background:url(http://www.sparksbelting.com/uploads/blog/_blogFeatureImage/calculator-blog-main.jpg);
-	background-size:cover;
-
-}
-#content{
-text-align:center;
-padding-top:10%;
-}
-html{
-	height:100%;
-}
-hr{
-	width:400px;
-}
-h1{
-	font-weight: 700;
-	font-size:5em;
+	background-color: #D3D3D3;
 }
 #footer{
 	text-align:center;
-	margin-top:150px;
-	font-weight:1000;
+	margin-top:10%;
+	font-weight: 1000;
 }
 .navbar-default{
 	background:black;
-}
-.con{
-	margin-left:500px;
-	width:50vw;
 }
 .con1{
 	border-radius:5px;
@@ -70,4 +48,7 @@ a:hover{
 a:visited{
 	text-decoration: none;
 	color:silver;
+}
+.prop{
+	background:#A9A9A9;
 }
