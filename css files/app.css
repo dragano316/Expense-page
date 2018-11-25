@@ -3,7 +3,6 @@ body{
 	color:white;
 	background:url(http://www.sparksbelting.com/uploads/blog/_blogFeatureImage/calculator-blog-main.jpg);
 	background-size:cover;
-
 }
 #content{
 text-align:center;
@@ -33,21 +32,21 @@ h1{
 }
 .con1{
 	border-radius:5px;
-	background: black;
+	background: blue;
 	height:30px;
 	width:30px;
 	border:none;
 }
 .con2{
 	border-radius:5px;
-	background: blue;
+	background: #1da1f2;
 	height:30px;
 	width:30px;
 	border:none;
 }
 .con3{
 	border-radius:5px;
-	background: green;
+	background: #0E76A8;
 	height:30px;
 	width:30px;
 	border:none;
